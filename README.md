@@ -9,7 +9,8 @@ products:
 ---
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/jaydeeppatel12/serefin/tree/main)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fjaydeeppatel12%2Fserefin%2Fblob%2Fmain%2Fazuredeploy.json)
+
 
 # Group Calling Sample
 
