@@ -9,7 +9,7 @@ products:
 ---
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fcommunication-services-web-calling-hero%2Fmain%2Fdeploy%2Fazuredeploy.json%3FaddonRepo%3Dhttps%253A%252F%252Fgithub.com%252Fjaydeeppatel12%252Fserefin.git)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fjaydeeppatel12%2Fserefin%2Fblob%2Fmain%2Fazuredeploy.json)
 
 
 # Group Calling Sample
